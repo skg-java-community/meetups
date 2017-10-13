@@ -1,0 +1,2 @@
+# meetups
+Thessaloniki Java meetups
