@@ -1,10 +1,16 @@
 # Yearly Schedule
 September 24th-28th
+
 October 29th-2nd (November)
+
 December 10th-14th
+
 January 28th-1st (Febrouary)
+
 March 4th-8th
+
 April 15th-19th
+
 June 17th-22nd
 
 # Conferences to watch / organize a group trip
