@@ -5,7 +5,7 @@ October 29th-2nd (November)
 
 December 10th-14th
 
-January 28th-1st (Febrouary)
+January 28th-1st (February)
 
 March 4th-8th
 
