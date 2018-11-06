@@ -1,7 +1,7 @@
 # Yearly Schedule
 September 24th-28th
 
-October 29th-2nd (November)
+[October 29th-2nd (November)](https://www.meetup.com/Thessaloniki-Java-Meetup-Group/events/255604553/)
 
 December 10th-14th
 
