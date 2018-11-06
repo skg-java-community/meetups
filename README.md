@@ -17,12 +17,10 @@ June 17th-22nd
 [JPrime.io](http://jprime.io)
 
 
-
-
 # Past Java meetups
-November 2018 - Meetup (2018/11/02) - [Selenium for Java Devs](https://docs.google.com/presentation/d/1EiEGnvHWz79fcS_JcyXAJnTMszALYXclyf4EvAvzwjQ/edit?usp=sharing) by [Giorgos Gaganis](https://giorgosgaganis.com)
+November 2018 - Meetup (2018/11/02) - [Selenium for Java Devs](2018/files/Selenium_for_Java_Developers.pdf) by [John Pourdanis](https://www.linkedin.com/in/jpourdanis/)
 
-[April 2018 - Meetup](https://www.meetup.com/Thessaloniki-Java-Meetup-Group/events/249024414/) (2018/04/13) - [Java 9 security enhancements in practice](2018/files/Java_9_security_enhancements_in_practice.pdf) by [Martin Toshev](http://martin-toshev.com)
+November 2018 - Meetup (2018/11/02) - [Software Testing Antipatterns](2018/files/Software_testing_anti-patterns.pdf) by [Kostis Kapelonis](https://www.linkedin.com/in/kkapelon/)
 
 [April 2018 - Meetup](https://www.meetup.com/Thessaloniki-Java-Meetup-Group/events/249024414/) (2018/04/13) - [Java 10 Release and Features](https://docs.google.com/presentation/d/1EiEGnvHWz79fcS_JcyXAJnTMszALYXclyf4EvAvzwjQ/edit?usp=sharing) by [Giorgos Gaganis](https://giorgosgaganis.com)
 
