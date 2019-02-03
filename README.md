@@ -1,11 +1,11 @@
 # Yearly Schedule
-September 24th-28th
+September 24th-28th (Skipped)
 
 [October 29th-2nd (November)](https://www.meetup.com/Thessaloniki-Java-Meetup-Group/events/255604553/)
 
-December 10th-14th
+December 10th-14th (Skipped)
 
-January 28th-1st (February)
+[January 28th-1st (February)](https://www.meetup.com/Thessaloniki-Java-Meetup-Group/events/258036946/)
 
 March 4th-8th
 
@@ -18,6 +18,10 @@ June 17th-22nd
 
 
 # Past Java meetups
+Feburary 2019 - Meetup (2019/02/01) - [How to improve the quality of your application](2019/files/Improve_Application_Quality.pdf) by [Ioannis Kolaxis](https://www.linkedin.com/in/ioannis-kolaxis/)
+
+Feburary 2019 - Meetup (2019/02/01) - [How to analyze JVM application performannce](2019/files/JVM_performance.pdf) by [Vaggelis Spathas](https://www.linkedin.com/in/vaggelis-spathas-2380ab29/)
+
 November 2018 - Meetup (2018/11/02) - [Selenium for Java Devs](2018/files/Selenium_for_Java_Developers.pdf) by [John Pourdanis](https://www.linkedin.com/in/jpourdanis/)
 
 November 2018 - Meetup (2018/11/02) - [Software Testing Antipatterns](2018/files/Software_testing_anti-patterns.pdf) by [Kostis Kapelonis](https://www.linkedin.com/in/kkapelon/)
