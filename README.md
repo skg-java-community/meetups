@@ -7,7 +7,7 @@ December 10th-14th (Skipped)
 
 [January 28th-1st (February)](https://www.meetup.com/Thessaloniki-Java-Meetup-Group/events/258036946/)
 
-March 4th-8th
+[March 4th-8th](https://www.meetup.com/Thessaloniki-Not-Only-Java/events/259192590/)
 
 April 15th-19th
 
@@ -18,6 +18,8 @@ June 17th-22nd
 
 
 # Past Java meetups
+March 2019 - Meetup (2019/03/07) - [Do you choose the Red or Blue pill? An intro to project Loom & Fibers](https://docs.google.com/presentation/d/1mliau_KeIAwatYAc24joWeN_3bhmGRbZPwfHY0-Csio/edit?usp=sharing), Code: [gaganis/fiber-scallabity-model](https://github.com/gaganis/fiber-scallabity-model) by [Giorgos Gaganis](https://giorgosgaganis.com) 
+
 Feburary 2019 - Meetup (2019/02/01) - [How to improve the quality of your application](2019/files/Improve_Application_Quality.pdf) by [Ioannis Kolaxis](https://www.linkedin.com/in/ioannis-kolaxis/)
 
 Feburary 2019 - Meetup (2019/02/01) - [How to analyze JVM application performannce](2019/files/JVM_performance.pdf) by [Vaggelis Spathas](https://www.linkedin.com/in/vaggelis-spathas-2380ab29/)
