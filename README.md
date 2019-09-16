@@ -1,4 +1,20 @@
 # Yearly Schedule
+## 2019 - 2020
+October 7th-11th
+
+November 4th-8th
+
+December 9th-13th
+
+January 27th-31st
+
+March 2nd-6th
+
+April 27th-1st(May)
+
+June 15th-19th
+
+## 2018 - 2019
 September 24th-28th (Skipped)
 
 [October 29th-2nd (November)](https://www.meetup.com/Thessaloniki-Java-Meetup-Group/events/255604553/)
