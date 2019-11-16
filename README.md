@@ -1,6 +1,6 @@
 # Yearly Schedule
 ## 2019 - 2020
-October 7th-11th
+October 7th-11th(Skipped)
 
 [November
 4th-8th ](https://www.meetup.com/Thessaloniki-Not-Only-Java/events/266053022/) [ Introduction to Apache Kafka.pdf](2019/files/Introduction_to_Apache_Kafka.pdf) by [Dimitris Kontokostas](http://kontokostas.com/)
