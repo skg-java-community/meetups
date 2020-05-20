@@ -1,4 +1,9 @@
 # Yearly Schedule
+## 2020 - 2021
+June 15th-19th
+
+[May 19th](https://www.meetup.com/Thessaloniki-Not-Only-Java/events/270358412/) [Functional Programming Concepts in Scala](https://github.com/thomaska/fp-concepts-in-scala) by Thomas Kaliakos
+
 ## 2019 - 2020
 October 7th-11th(Skipped)
 
