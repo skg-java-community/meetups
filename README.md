@@ -1,10 +1,14 @@
 # Yearly Schedule
 ## 2020 - 2021
-June 15th-19th
+
+***TBD***
+
+## 2019 - 2020
+
+[June 18th](https://www.meetup.com/Thessaloniki-Not-Only-Java/events/271121029/) [End of the year meet with discussions & lightning talks](2020/JUnit_5.6_Features_and_Insights.pdf), Code: [sample project](2020/junit5-samples.tar.bz2) by [Giorgos Gaganis](https://giorgosgaganis.com) 
 
 [May 19th](https://www.meetup.com/Thessaloniki-Not-Only-Java/events/270358412/) [Functional Programming Concepts in Scala](https://github.com/thomaska/fp-concepts-in-scala) by Thomas Kaliakos
 
-## 2019 - 2020
 October 7th-11th(Skipped)
 
 [November
