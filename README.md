@@ -4,6 +4,7 @@
 ***TBD***
 
 ## 2019 - 2020
+[Sepptember 29th](https://www.meetup.com/Thessaloniki-Not-Only-Java/events/273318322/) [Kotlin for Java developers](2020/Kotlin-ThessalonikiJava2020.pdf) by [Antonis Lilis](https://antonis.me/)
 
 [June 18th](https://www.meetup.com/Thessaloniki-Not-Only-Java/events/271121029/) [End of the year meet with discussions & lightning talks](2020/JUnit_5.6_Features_and_Insights.pdf), Code: [sample project](2020/junit5-samples.tar.bz2) by [Giorgos Gaganis](https://giorgosgaganis.com) 
 
