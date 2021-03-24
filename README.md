@@ -1,6 +1,6 @@
 # Past Meetup info & slides
 
-## 2020
+## 2021
 [March 18th](https://www.meetup.com/Thessaloniki-Not-Only-Java/events/276774142/)
  * [Introduction to Event-Based Microservices](https://www.slideshare.net/GrigorisGrigoriadis/introduction-to-event-based-microservices) by [Grigoris Grigoriadis](https://www.linkedin.com/in/grigorisgrigoriadis/)
  * [How to prepare for a Software engineering interview: what I learned after interviewing with Google, Facebook & Amazon](2021/How%20to%20prepare%20for%20a%20Software%20engineering%20interview.pdf) by [Thomas Kaliakos](https://www.linkedin.com/in/thomas-kaliakos-07499667/) ([@thomaska](https://github.com/thomaska))
