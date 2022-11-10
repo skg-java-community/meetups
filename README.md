@@ -1,5 +1,9 @@
 # Past Meetup info & slides
 
+## 2022
+[November 8th](https://www.meetup.com/thessaloniki-not-only-java/events/289292568/)
+ * [Prepare for what "Loom"s ahead](2022/2022_JUG_in_Thessalonki_Greece_-_Prepare_for_what__Loom_s_ahead_by_Heinz_Kabutz.pdf) by [Dr. Heinz Kabutz](https://www.javaspecialists.eu)
+
 ## 2021
 [March 18th](https://www.meetup.com/Thessaloniki-Not-Only-Java/events/276774142/)
  * [Introduction to Event-Based Microservices](2021/designingmicroservices-2021-210318190637.pdf) by [Grigoris Grigoriadis](https://www.linkedin.com/in/grigorisgrigoriadis/)
