@@ -1,5 +1,10 @@
 # Past Meetup info & slides
 
+## 2023
+[January 18th - 9th anniversary!](https://www.meetup.com/thessaloniki-not-only-java/events/290282680/)
+ * [Creating Evolduo: A platform for musical synthesis using evolutionary algorithms](2023/evolduo-demo.pdf) by [Kostas Georgiadis](kongeor@gmail.com)
+
+
 ## 2022
 [November 8th](https://www.meetup.com/thessaloniki-not-only-java/events/289292568/)
  * [Prepare for what "Loom"s ahead](2022/2022_JUG_in_Thessalonki_Greece_-_Prepare_for_what__Loom_s_ahead_by_Heinz_Kabutz.pdf) by [Dr. Heinz Kabutz](https://www.javaspecialists.eu)
