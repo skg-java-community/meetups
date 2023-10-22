@@ -1,6 +1,9 @@
 # Past Meetup info & slides
 
 ## 2023
+[October 19th](https://www.meetup.com/thessaloniki-not-only-java/events/296578212/)
+ * [Unlocking the Power of IntelliJ: Creating Plugins for Ultimate Productivity](2023/intelliJ-plugin-development.pdf) by [Lefteris Chrysochoidis](https://www.linkedin.com/in/lefterisxris/)
+
 [January 18th - 9th anniversary!](https://www.meetup.com/thessaloniki-not-only-java/events/290282680/)
  * [Creating Evolduo: A platform for musical synthesis using evolutionary algorithms](2023/evolduo-demo.pdf) by [Kostas Georgiadis](kongeor@gmail.com)
 
