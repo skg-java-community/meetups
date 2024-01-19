@@ -1,5 +1,10 @@
 # Past Meetup info & slides
 
+## 2024
+[January 18th](https://www.meetup.com/thessaloniki-not-only-java/events/298420994/)
+ * [A Node.js Odyssey. Experiences and lessons learned by a former Spring developer](2024/A%20Node.js%20Odyssey.%20Experiences%20and%20lessons%20learned%20by%20a%20former%20Spring%20developer.pptx) by [Kosmas Kyriakidis](https://www.linkedin.com/in/kosmas-kyriakidis-70a29082/)
+
+
 ## 2023
 [October 19th](https://www.meetup.com/thessaloniki-not-only-java/events/296578212/)
  * [Unlocking the Power of IntelliJ: Creating Plugins for Ultimate Productivity](2023/intelliJ-plugin-development.pdf) by [Lefteris Chrysochoidis](https://www.linkedin.com/in/lefterisxris/)
