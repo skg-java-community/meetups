@@ -30,3 +30,9 @@ Finally, we are really happy to share that gifts, such as **free books from Orei
 ## Full Details
 
 - https://www.meetup.com/thessaloniki-not-only-java/events/299198529/
+
+## Slides & Code
+
+- Here is the blog: https://blog.cons.gr/posts/2024-02-28-clojure-101/
+- Here is the coe: https://github.com/kongeor/clj-intro
+- Here are the slides: [Slides](2024/02_Clojure/clojure-101.pdf)
