@@ -1,8 +1,11 @@
 # Past Meetup info & slides
 
 ## 2024
+[February 29th](https://www.meetup.com/thessaloniki-not-only-java/events/299198529/)
+ * [Clojure 101: Interactive Introduction](2024/02_Clojure) by [Kostas Georgiadis](https://www.linkedin.com/in/kongeor/)
+
 [January 18th](https://www.meetup.com/thessaloniki-not-only-java/events/298420994/)
- * [A Node.js Odyssey. Experiences and lessons learned by a former Spring developer](2024/A%20Node.js%20Odyssey.%20Experiences%20and%20lessons%20learned%20by%20a%20former%20Spring%20developer.pptx) by [Kosmas Kyriakidis](https://www.linkedin.com/in/kosmas-kyriakidis-70a29082/)
+ * [A Node.js Odyssey. Experiences and lessons learned by a former Spring developer](2024/01_Node) by [Kosmas Kyriakidis](https://www.linkedin.com/in/kosmas-kyriakidis-70a29082/)
 
 
 ## 2023
