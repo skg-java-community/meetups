@@ -34,5 +34,5 @@ Finally, we are really happy to share that gifts, such as **free books from Orei
 ## Slides & Code
 
 - Here is the blog: https://blog.cons.gr/posts/2024-02-28-clojure-101/
-- Here is the coe: https://github.com/kongeor/clj-intro
+- Here is the code: https://github.com/kongeor/clj-intro
 - Here are the slides: [Slides](clojure-101.pdf)

@@ -1,6 +1,9 @@
 # Past Meetup info & slides
 
 ## 2024
+[May 23th](https://www.meetup.com/thessaloniki-not-only-java/events/301032033/)
+ * [Dive into Vaadin: Building Modern Web Applications in Java](2024/03_Vaadin) by [Nick Giantsidis](https://www.linkedin.com/in/nickgiant/)
+
 [February 29th](https://www.meetup.com/thessaloniki-not-only-java/events/299198529/)
  * [Clojure 101: Interactive Introduction](2024/02_Clojure) by [Kostas Georgiadis](https://www.linkedin.com/in/kongeor/)
 
