@@ -1,6 +1,10 @@
 # Past Meetup info & slides
 
 ## 2024
+
+[September 26th](https://www.meetup.com/thessaloniki-not-only-java/events/303298047/)
+ * [GitHub Actions: Make them work for you!](2024/04_GitHub_Actions) by [Lefteris Chrysochoidis](https://www.linkedin.com/in/lefterisxris/)
+
 [May 23th](https://www.meetup.com/thessaloniki-not-only-java/events/301032033/)
  * [Dive into Vaadin: Building Modern Web Applications in Java](2024/03_Vaadin) by [Nick Giantsidis](https://www.linkedin.com/in/nickgiant/)
 
