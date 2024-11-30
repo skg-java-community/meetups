@@ -2,6 +2,9 @@
 
 ## 2024
 
+[November 28th](https://www.meetup.com/thessaloniki-not-only-java/events/304361976/)
+ * [Unlocking Observability in Apache Kafka®-Based Systems with OpenTelemetry](2024/05_Observability_OpenTelemetry) by [Harry Kimpel](https://www.linkedin.com/in/harrykimpel/)
+
 [September 26th](https://www.meetup.com/thessaloniki-not-only-java/events/303298047/)
  * [GitHub Actions: Make them work for you!](2024/04_GitHub_Actions) by [Lefteris Chrysochoidis](https://www.linkedin.com/in/lefterisxris/)
 
