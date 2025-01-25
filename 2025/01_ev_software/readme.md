@@ -38,5 +38,5 @@ Make sure you RSVP and join the event, to get a chance to win a JetBrains 100% f
 ## Slides & Code
 
 - Here are the `Intro` slides: [SKG Java Meetup - Event & Community Introduction.pdf](intro.pdf)
-- Here are the `EV Software Event` slides: [GitHub Actions: Make them work for you.pdf](ev_software_slides.pdf)
+- Here are the `EV Software Event` slides: [Building software to track env impact of EV ownership.pdf](ev_software_slides.pdf)
 - Here is the `Code` of the demo [Spring Shell project](spring-shell-calculator-demo.tar.bz2)
