@@ -1,5 +1,10 @@
 # Past Meetup info & slides
 
+## 2025
+
+[January 23d](https://www.meetup.com/thessaloniki-not-only-java/events/305560741/)
+ * [Building software to track env impact of EV ownership & Intro to Spring Shell](2025/ev_software) by [Giorgos Gaganis](https://www.linkedin.com/in/giorgos-gaganis/)
+
 ## 2024
 
 [November 28th](https://www.meetup.com/thessaloniki-not-only-java/events/304361976/)
