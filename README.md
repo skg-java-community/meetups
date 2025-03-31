@@ -2,6 +2,9 @@
 
 ## 2025
 
+[March 28th](https://www.meetup.com/thessaloniki-not-only-java/events/306785382/)
+ * [GraphQL: OneAPI to rule them all](2025/02_graphql) by [Dimitris Kontokostas](https://www.linkedin.com/in/jimkont/)
+ 
 [January 23d](https://www.meetup.com/thessaloniki-not-only-java/events/305560741/)
  * [Building software to track env impact of EV ownership & Intro to Spring Shell](2025/01_ev_software) by [Giorgos Gaganis](https://www.linkedin.com/in/giorgos-gaganis/)
 
