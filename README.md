@@ -2,6 +2,9 @@
 
 ## 2025
 
+[April 29th](https://www.meetup.com/thessaloniki-not-only-java/events/307287105/)
+* [Infusing Java with AI: 5 Tips and Strategies for GenAI-Powered Applications](2025/03_java_ai) by [Rustam Mehmandarov](https://mehmandarov.com/)
+
 [March 28th](https://www.meetup.com/thessaloniki-not-only-java/events/306785382/)
  * [GraphQL: OneAPI to rule them all](2025/02_graphql) by [Dimitris Kontokostas](https://www.linkedin.com/in/jimkont/)
  
