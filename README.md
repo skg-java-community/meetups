@@ -2,6 +2,12 @@
 
 ## 2025
 
+[October 23rd](https://www.meetup.com/thessaloniki-not-only-java/events/311392049/)
+* [Securing Kafka Schema Registry in Java Microservices](2025/05_kafka_schema) by [Matthaios Stavrou](https://www.linkedin.com/in/matthaios-stavrou-95b12172)
+
+[June 5th](https://www.meetup.com/thessaloniki-not-only-java/events/308057917/)
+* [Spring Boot vs Fast API - The crash test!](2025/04_spring_vs_fast) by [George Apostolidis](https://www.linkedin.com/in/geoapos/)
+
 [April 29th](https://www.meetup.com/thessaloniki-not-only-java/events/307287105/)
 * [Infusing Java with AI: 5 Tips and Strategies for GenAI-Powered Applications](2025/03_java_ai) by [Rustam Mehmandarov](https://mehmandarov.com/)
 
