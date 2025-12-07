@@ -2,6 +2,9 @@
 
 ## 2025
 
+[November 27th](https://www.meetup.com/thessaloniki-not-only-java/events/311976243/)
+* [From Chaos to Control: Kubernetes Operators in Practice!](06_kubernetes_operators/) by [Nikos Ntemkas](https://www.linkedin.com/in/nikos-ntemkas-34093684/) and [George Binas](https://www.linkedin.com/in/george-binas-1b51a1105/)
+
 [October 23rd](https://www.meetup.com/thessaloniki-not-only-java/events/311392049/)
 * [Securing Kafka Schema Registry in Java Microservices](2025/05_kafka_schema) by [Matthaios Stavrou](https://www.linkedin.com/in/matthaios-stavrou-95b12172)
 
