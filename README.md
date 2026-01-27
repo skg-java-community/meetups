@@ -1,5 +1,19 @@
 # Past Meetup info & slides
 
+## 2026
+
+[April 23rd](https://www.meetup.com/thessaloniki-not-only-java/events/314227294/)
+* [Taat: Making of - From idea to Steam!](2026/04_taat/) by [Kostas Georgiadis](https://www.linkedin.com/in/kongeor/)
+
+[March 19th](https://www.meetup.com/thessaloniki-not-only-java/events/313590493/)
+* [The Elegant Monolith: Modern Application Architecture with Spring Modulith](2026/03_spring_modulith/) by [George Charitakis](https://www.linkedin.com/in/gecharita/)
+
+[February 24th](https://www.meetup.com/thessaloniki-not-only-java/events/313099364/)
+* [Will AI take our jobs? The Meetup of Meetups](2026/02_ai_round_table/) by our friends from 7 Thessalonikis' meetups!
+
+[January 22nd](https://www.meetup.com/thessaloniki-not-only-java/events/312883189/)
+* [The Power of GitOps and the Rise of ArgoCD](2026/01_argocd/) by [Patroklos Papapetrou](https://www.linkedin.com/in/ppapapetrou/)
+
 ## 2025
 
 [November 27th](https://www.meetup.com/thessaloniki-not-only-java/events/311976243/)
