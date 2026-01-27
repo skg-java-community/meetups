@@ -1,5 +1,10 @@
 # Past Meetup info & slides
 
+## 2026
+
+[January 22nd](https://www.meetup.com/thessaloniki-not-only-java/events/312883189/)
+* [The Power of GitOps and the Rise of ArgoCD](2026/01_argocd/) by [Patroklos Papapetrou](https://www.linkedin.com/in/ppapapetrou/)
+
 ## 2025
 
 [November 27th](https://www.meetup.com/thessaloniki-not-only-java/events/311976243/)
