@@ -46,5 +46,6 @@ Lefteris, Dimitris
 
 ## Slides & Code
 
-- Here are the `Spring Modulith` slides: [Modulith_for_SKG_MeetUp_2026.pdf](Modulith_for_SKG_MeetUp_2026.pdf)
+- Here are the `Spring Modulith` slides: [Modulith_for_SKG_MeetUp_2026.pdf](Modulith_for_SKG_MeetUp_2026.pdf) 
+- The demo code can be found in George's repo: [https://github.com/gecharita/ModulithDemo.git](https://github.com/gecharita/ModulithDemo.git)
 - Here are the `Intro` slides: [SKG Java Meetup - Event & Community Introduction.pdf](Community_Intro_2026-03_Spring_Modulith.pdf)

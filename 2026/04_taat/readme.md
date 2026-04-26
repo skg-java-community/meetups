@@ -52,4 +52,5 @@ Lefteris, Dimitris
 ## Slides & Code
 
 - Here are the `Taat Journey` slides: [taat-making-of.pdf](taat-making-of.pdf)
+- A blog about Taat can be found here: [https://blog.cons.gr/posts/2026-03-26-taat-making-of/](https://blog.cons.gr/posts/2026-03-26-taat-making-of/)
 - Here are the `Intro` slides: [SKG Java Meetup - Event & Community Introduction.pdf](Community-Intro-2026-04_Taat.pdf)
