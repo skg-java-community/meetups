@@ -2,10 +2,12 @@
 
 ## 2026
 
+[September 16th](https://www.meetup.com/thessaloniki-not-only-java/events/316466603/)
+* [Java Caching: From HashMap to Redis](2026/06_caching/) by [Eleftherios Chrysochoidis](https://www.linkedin.com/in/lefterisxris/)
+
 [May 28th](https://www.meetup.com/thessaloniki-not-only-java/events/314882778/)
 * [Spring AI in Action: AI-Powered Java Apps with Spring Boot](2026/05_spring_ai/) by [Eleftherios Chrysochoidis](https://www.linkedin.com/in/lefterisxris/)
  
-
 [April 23rd](https://www.meetup.com/thessaloniki-not-only-java/events/314227294/)
 * [Taat: Making of - From idea to Steam!](2026/04_taat/) by [Kostas Georgiadis](https://www.linkedin.com/in/kongeor/)
 
